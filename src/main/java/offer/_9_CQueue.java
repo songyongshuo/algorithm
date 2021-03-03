@@ -32,7 +32,7 @@ public class _9_CQueue {
     private LinkedList<Integer> stack1;
     private LinkedList<Integer> stack2;
 
-    public CQueue() {
+    public _9_CQueue() {
         stack1 = new LinkedList<>();
         stack2 = new LinkedList<>();
     }
